@@ -1,5 +1,5 @@
 This repository contains two codes to reproduce parts A and B of the figure in this reference:
-N. Kravtsova. Note on a computational complexity of the Gromov-Wasserstein distance. 2024.  
+N. Kravtsova. Note on computational complexity of the Gromov-Wasserstein distance. 2024.  
 https://arxiv.org/abs/2408.06525
 
 Part A uses spaces constructed in Example 5.2 of this reference (no additional files are  needed when using the code):
